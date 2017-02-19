@@ -1,0 +1,409 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ENG">
+<head>
+<title>EDGAR Search Results</title>
+<link href="/include/interactive.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="ATOM" href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001166559&amp;type=&amp;dateb=&amp;owner=exclude&amp;count=40&amp;output=atom" />
+
+</head>
+<body style="margin: 0">
+<!-- SEC Web Analytics - For information please visit: http://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+<div id="secBetaGraphic"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001166559&amp;type=&amp;dateb=&amp;owner=exclude&amp;count=100&amp;output=xml"><img src="/images/edgar_button_usasearch.png" alt="EDGAR USA Search" style="border-style: none"/></a></div>   <div id="PageTitle">EDGAR Search Results</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+   <!-- START FILER DIV -->
+   <div style="margin: 15px 0 10px 0; padding: 3px; overflow: hidden; background-color: #BCD6F8;">
+      <div class="mailer">Mailing Address
+         <span class="mailerAddress">2365 CARILLON POINT</span>
+         <span class="mailerAddress">
+KIRKLAND WA 98033         </span>
+      </div>
+      <div class="mailer">Business Address
+         <span class="mailerAddress">2365 CARILLON POINT</span>
+         <span class="mailerAddress">
+KIRKLAND WA 98033         </span>
+         <span class="mailerAddress">4258897900</span>
+      </div>
+      <div class="companyInfo">
+         <span class="companyName">BILL &amp; MELINDA GATES FOUNDATION TRUST <acronym title="Central Index Key">CIK</acronym>#: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001166559&amp;owner=exclude&amp;count=40">0001166559 (see all company filings)</a></span>
+         <p class="identInfo">State location: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;State=WA&amp;owner=exclude&amp;count=40">WA</a> | State of Inc.: <strong>WA</strong> | Fiscal Year End: 1231<br />formerly: GATES BILL &amp; MELINDA FOUNDATION (filings through 2006-08-14)<br />Get <a href="/cgi-bin/own-disp?action=getowner&amp;CIK=0001166559"><b>insider transactions</b></a> for this <b>reporting owner</b>.
+</p>
+      </div>
+   </div>
+   <div style="width: 100%;">
+      <form method="GET" action="/cgi-bin/browse-edgar">
+         <input type="hidden" name="action" value="getcompany">
+         <input type="hidden" name="CIK" value="0001166559">
+         <table style="margin: 0px; background:#FFFFFF; border: 1px solid #BCD6F8; width: 100%;">
+            <tr>
+               <td>Filter Results:</td>
+               <td><label for="type">Filing Type:</label><br /><input name="type" size="10" tabindex="1" id="type" value=""></td>
+               <td><label for="prior_to">Prior to:</label> (YYYYMMDD)<br /><input name="dateb" size="10" tabindex="2" id="prior_to" value=""></td>
+               <td>Ownership?<br /><input type="radio" name="owner" value="include" id="include" tabindex="3"><label for="include">include</label><input type="radio" name="owner" value="exclude" id="exclude" checked="checked" tabindex="4"><label for="exclude">exclude</label><input type="radio" name="owner" value="only" id="only" tabindex="5"/><label for="only">only</label>
+               <td><label for="count">Limit Results Per Page</label><br />
+					 <select name="count" id="count" tabindex="6">
+                     <option value="10" >10 Entries
+                     <option value="20" >20 Entries
+                     <option value="40"  selected>40 Entries
+                     <option value="80" >80 Entries
+                     <option value="100" >100 Entries
+                  </select>
+               </td>
+               <td style="text-align: middle;"><input type="submit" value="Search"><br /><input type="submit" onClick="this.form.type.value=''" value="Show All"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+<!-- END FILER DIV -->
+   <div style="margin-top: 5px; margin-bottom: 5px;">
+      <form>
+         <table border="0" width="100%">
+            <tr>
+               <td>Items 1 - 40&nbsp;&nbsp;<a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001166559&amp;CIK=0001166559&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom"><img src="/images/rss-feed-icon-14x14.png" alt="0001166559 Filings" border="0" align="top" /> RSS Feed</a></td>
+               <td style="text-align: right;"> <input type="button" value="Next 40" onClick="parent.location='/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001166559&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=40&amp;count=40'"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+   <div id="seriesDiv" style="margin-top: 0px;">
+      <table class="tableFile2" summary="Results">
+         <tr>
+            <th width="7%" scope="col">Filings</th>
+            <th width="10%" scope="col">Format</th>
+            <th scope="col">Description</th>
+            <th width="10%" scope="col">Filing Date</th>
+            <th width="15%" scope="col">File/Film Number</th>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465917002579/0001104659-17-002579-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b> General statement of acquisition of beneficial ownership<br />Acc-no: 0001104659-17-002579 Size: 293 KB            </td>
+            <td>2017-01-17</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465916156931/0001104659-16-156931-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-16-156931&nbsp;(34 Act)&nbsp; Size: 11 KB            </td>
+            <td>2016-11-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>161995664         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465916139781/0001104659-16-139781-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-16-139781&nbsp;(34 Act)&nbsp; Size: 11 KB            </td>
+            <td>2016-08-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>161833248         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465916120911/0001104659-16-120911-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-16-120911&nbsp;(34 Act)&nbsp; Size: 11 KB            </td>
+            <td>2016-05-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>161648849         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465916106632/0001104659-16-106632-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001104659-16-106632 Size: 129 KB            </td>
+            <td>2016-03-21</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465916096636/0001104659-16-096636-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-16-096636&nbsp;(34 Act)&nbsp; Size: 11 KB            </td>
+            <td>2016-02-12</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>161420120         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465915086909/0001104659-15-086909-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001104659-15-086909 Size: 123 KB            </td>
+            <td>2015-12-28</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465915078780/0001104659-15-078780-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-15-078780&nbsp;(34 Act)&nbsp; Size: 12 KB            </td>
+            <td>2015-11-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>151229642         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465915060084/0001104659-15-060084-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-15-060084&nbsp;(34 Act)&nbsp; Size: 11 KB            </td>
+            <td>2015-08-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>151056404         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465915038724/0001104659-15-038724-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-15-038724&nbsp;(34 Act)&nbsp; Size: 11 KB            </td>
+            <td>2015-05-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>15870070         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465915010462/0001104659-15-010462-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-15-010462&nbsp;(34 Act)&nbsp; Size: 12 KB            </td>
+            <td>2015-02-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>15615984         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465914081003/0001104659-14-081003-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-14-081003&nbsp;(34 Act)&nbsp; Size: 12 KB            </td>
+            <td>2014-11-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>141224793         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465914061098/0001104659-14-061098-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-14-061098&nbsp;(34 Act)&nbsp; Size: 12 KB            </td>
+            <td>2014-08-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>141043497         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465914039387/0001104659-14-039387-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-14-039387&nbsp;(34 Act)&nbsp; Size: 12 KB            </td>
+            <td>2014-05-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>14847969         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465914010663/0001104659-14-010663-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-14-010663&nbsp;(34 Act)&nbsp; Size: 11 KB            </td>
+            <td>2014-02-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>14617523         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465914002579/0001104659-14-002579-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b> General statement of acquisition of beneficial ownership<br />Acc-no: 0001104659-14-002579 Size: 234 KB            </td>
+            <td>2014-01-15</td>
+         <td></td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465913084874/0001104659-13-084874-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-13-084874&nbsp;(34 Act)&nbsp; Size: 13 KB            </td>
+            <td>2013-11-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>131221168         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465913063997/0001104659-13-063997-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001104659-13-063997&nbsp;(34 Act)&nbsp; Size: 13 KB            </td>
+            <td>2013-08-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>131038349         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746913006200/0001047469-13-006200-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-13-006200&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2013-05-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>13847666         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746913001017/0001047469-13-001017-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-13-001017&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2013-02-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>13605999         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746912010583/0001047469-12-010583-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-12-010583&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2012-11-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>121206656         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746912008325/0001047469-12-008325-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-12-008325&nbsp;(34 Act)&nbsp; Size: 7 KB            </td>
+            <td>2012-08-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>121034064         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746912006080/0001047469-12-006080-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-12-006080&nbsp;(34 Act)&nbsp; Size: 7 KB            </td>
+            <td>2012-05-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>12845796         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746912001032/0001047469-12-001032-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-12-001032&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2012-02-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>12612127         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746911009553/0001047469-11-009553-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-11-009553&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2011-11-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>111203962         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746911007429/0001047469-11-007429-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-11-007429&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2011-08-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>111037475         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465911038220/0001104659-11-038220-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b> General statement of acquisition of beneficial ownership<br />Acc-no: 0001104659-11-038220 Size: 250 KB            </td>
+            <td>2011-07-07</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746911005234/0001047469-11-005234-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-11-005234&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2011-05-16</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>11848185         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465911015401/0001104659-11-015401-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b> General statement of acquisition of beneficial ownership<br />Acc-no: 0001104659-11-015401 Size: 219 KB            </td>
+            <td>2011-03-18</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746911000932/0001047469-11-000932-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-11-000932&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2011-02-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>11610035         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746910009797/0001047469-10-009797-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-10-009797&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2010-11-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>101193605         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746910007567/0001047469-10-007567-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-10-007567&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2010-08-16</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>101020706         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465910036978/0001104659-10-036978-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b> General statement of acquisition of beneficial ownership<br />Acc-no: 0001104659-10-036978 Size: 226 KB            </td>
+            <td>2010-07-02</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746910005404/0001047469-10-005404-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-10-005404&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2010-05-17</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>10839689         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746910000908/0001047469-10-000908-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-10-000908&nbsp;(34 Act)&nbsp; Size: 9 KB            </td>
+            <td>2010-02-16</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>10609458         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746909010214/0001047469-09-010214-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-09-010214&nbsp;(34 Act)&nbsp; Size: 10 KB            </td>
+            <td>2009-11-16</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>091187341         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746909007831/0001047469-09-007831-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-09-007831&nbsp;(34 Act)&nbsp; Size: 10 KB            </td>
+            <td>2009-08-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>091016892         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000110465909041810/0001104659-09-041810-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b> General statement of acquisition of beneficial ownership<br />Acc-no: 0001104659-09-041810 Size: 166 KB            </td>
+            <td>2009-07-02</td>
+         <td></td>
+         </tr>
+<tr>
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746909005750/0001047469-09-005750-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-09-005750&nbsp;(34 Act)&nbsp; Size: 12 KB            </td>
+            <td>2009-05-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>09834516         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">13F-HR</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/1166559/000104746909001307/0001047469-09-001307-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Quarterly report filed by institutional managers, Holdings<br />Acc-no: 0001047469-09-001307&nbsp;(34 Act)&nbsp; Size: 10 KB            </td>
+            <td>2009-02-17</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=028-10098&amp;owner=exclude&amp;count=40">028-10098</a><br>09605901         </td>
+         </tr>
+      </table>
+   </div>
+   <div style="margin-top: 5px; margin-bottom: 5px;">
+      <form>
+         <table border="0" width="100%">
+            <tr>
+               <td style="text-align: right;"> <input type="button" value="Next 40" onClick="parent.location='/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001166559&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=40&amp;count=40'"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+</div>
+
+<!-- BEGIN FOOTER -->
+<div id="footer">
+  <div class="currentURL">http://www.sec.gov/cgi-bin/browse-edgar</div>
+  <div class="links"><a href="/index.htm">Home</a> | <a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> | <a href="javascript:history.back()">Previous Page</a></div>
+  <div class="modified">Modified 07/18/2014</div>
+</div>
+<!-- END FOOTER -->
+
+</body>
+</html>

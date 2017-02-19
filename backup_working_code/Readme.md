@@ -10,9 +10,10 @@ python shubhamagarwal.py <ticker>
 Requirements:
 sys
 time
-lxml
-requests
-mechanize
+lxml (pip install)
+requests (pip install)
+mechanize (pip install)
+python 2.7
 
 Few things on what the program does:
 - Takes a ticker
